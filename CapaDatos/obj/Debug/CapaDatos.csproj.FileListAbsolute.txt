@@ -1,0 +1,16 @@
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.Migrations.AddTableMedicos.resources
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.Migrations.AddTablePacientes.resources
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaDatos\obj\Debug\CapaDatos.Migrations.AddTableCitas.resources
