@@ -56,6 +56,13 @@
     <Compile Include="BasedeDatos\Modelos\Medicos.cs" />
     <Compile Include="BasedeDatos\Modelos\Pacientes.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Core\IRepository.cs" />
+    <Compile Include="Core\IUnitofWork.cs" />
+    <Compile Include="Core\Repository.cs" />
+    <Compile Include="Core\UnitofWork.cs" />
+    <Compile Include="DCitas.cs" />
+    <Compile Include="DMedicos.cs" />
+    <Compile Include="DPacientes.cs" />
     <Compile Include="Migrations\202404132125287_AddTableMedicos.cs" />
     <Compile Include="Migrations\202404132125287_AddTableMedicos.designer.cs">
       <DependentUpon>202404132125287_AddTableMedicos.cs</DependentUpon>
@@ -64,9 +71,9 @@
     <Compile Include="Migrations\202404132133121_AddTablePacientes.designer.cs">
       <DependentUpon>202404132133121_AddTablePacientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202404132140370_AddTableCitas.cs" />
-    <Compile Include="Migrations\202404132140370_AddTableCitas.designer.cs">
-      <DependentUpon>202404132140370_AddTableCitas.cs</DependentUpon>
+    <Compile Include="Migrations\202404140745114_AddTableCitas.cs" />
+    <Compile Include="Migrations\202404140745114_AddTableCitas.designer.cs">
+      <DependentUpon>202404140745114_AddTableCitas.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,8 +89,8 @@
     <EmbeddedResource Include="Migrations\202404132133121_AddTablePacientes.resx">
       <DependentUpon>202404132133121_AddTablePacientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202404132140370_AddTableCitas.resx">
-      <DependentUpon>202404132140370_AddTableCitas.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202404140745114_AddTableCitas.resx">
+      <DependentUpon>202404140745114_AddTableCitas.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

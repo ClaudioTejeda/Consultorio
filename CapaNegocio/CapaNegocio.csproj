@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="NCitas.cs" />
+    <Compile Include="NMedicos.cs" />
+    <Compile Include="NPacientes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\claud\OneDrive\Documentos\ACTIVIDADES-PROGRA-RAD\ActvIX\Consultorio\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -15,6 +15,12 @@ namespace CapaDatos.BasedeDatos.Modelos
         public Medicos Medicos { get; set; }
         public int PacienteId { get; set; }
         public Medicos Pacientes { get; set; }
+        [Required]
+        [MaxLength(120)]
+        public string Medico {  get; set; }
+        [Required]
+        [MaxLength(120)]
+        public string Paciente { get; set; }
         public DateTime FechaCita { get; set; }
         public bool Estado {  get; set; }
     }
