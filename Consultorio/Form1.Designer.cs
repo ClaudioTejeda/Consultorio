@@ -1,4 +1,4 @@
-﻿namespace Consultorio
+﻿namespace CONSULTORIO
 {
     partial class Form1
     {
